@@ -11,6 +11,7 @@
 - [Section 08 - Aggregate Commands](https://github.com/romulovieira777/Google_BigQuery_PostgreSQL/tree/main/Section%2008%20-%20Aggregate%20Commands)
 - [Section 09 - Group By Commands](https://github.com/romulovieira777/Google_BigQuery_PostgreSQL/tree/main/Section%2009%20-%20Group%20By%20Commands)
 - [Section 10 - Conditional Statement](https://github.com/romulovieira777/Google_BigQuery_PostgreSQL/tree/main/Section%2010%20-%20Conditional%20Statement)
+- [Section 11 - Joins](https://github.com/romulovieira777/Google_BigQuery_PostgreSQL/tree/main/Section%2011%20-%20Joins)
 
 
 Link to course: [Udemy](https://www.udemy.com/course/google-bigquery-and-postgresql-sql-for-data-analysis/)
