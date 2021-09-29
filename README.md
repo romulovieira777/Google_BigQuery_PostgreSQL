@@ -13,6 +13,8 @@
 - [Section 10 - Conditional Statement](https://github.com/romulovieira777/Google_BigQuery_PostgreSQL/tree/main/Section%2010%20-%20Conditional%20Statement)
 - [Section 11 - Joins](https://github.com/romulovieira777/Google_BigQuery_PostgreSQL/tree/main/Section%2011%20-%20Joins)
 - [Section 12 - Subqueries](https://github.com/romulovieira777/Google_BigQuery_PostgreSQL/tree/main/Section%2012%20-%20Subqueries)
+- [Section 13 - Views and Indexes](https://github.com/romulovieira777/Google_BigQuery_PostgreSQL/tree/main/Section%2013%20-%20Views%20and%20Indexes)
+- [Section 14 - String Functions](https://github.com/romulovieira777/Google_BigQuery_PostgreSQL/tree/main/Section%2014%20-%20String%20Functions)
 
 
 Link to course: [Udemy](https://www.udemy.com/course/google-bigquery-and-postgresql-sql-for-data-analysis/)
