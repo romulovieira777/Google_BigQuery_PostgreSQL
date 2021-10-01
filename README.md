@@ -16,6 +16,10 @@
 - [Section 13 - Views and Indexes](https://github.com/romulovieira777/Google_BigQuery_PostgreSQL/tree/main/Section%2013%20-%20Views%20and%20Indexes)
 - [Section 14 - String Functions](https://github.com/romulovieira777/Google_BigQuery_PostgreSQL/tree/main/Section%2014%20-%20String%20Functions)
 - [Section 15 - Mathematical Functions](https://github.com/romulovieira777/Google_BigQuery_PostgreSQL/tree/main/Section%2015%20-%20Mathematical%20Functions)
+- [Section 16 - Date Time Functions](https://github.com/romulovieira777/Google_BigQuery_PostgreSQL/tree/main/Section%2016%20-%20Date%20Time%20Functions)
+- [Section 17 - Pattern (String)](https://github.com/romulovieira777/Google_BigQuery_PostgreSQL/tree/main/Section%2017%20-%20Pattern%20(String))
+- [Section 18 - Google Data Studio for Visualizing BigQuery Data]
+- [Section 19 - Bonus Section]
 
 
 Link to course: [Udemy](https://www.udemy.com/course/google-bigquery-and-postgresql-sql-for-data-analysis/)
