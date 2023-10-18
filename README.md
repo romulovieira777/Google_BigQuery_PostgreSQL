@@ -21,5 +21,4 @@
 - Section 18 - Google Data Studio for Visualizing BigQuery Data
 - Section 19 - Bonus Section
 
-
 Link to course: [Udemy](https://www.udemy.com/course/google-bigquery-and-postgresql-sql-for-data-analysis/)
