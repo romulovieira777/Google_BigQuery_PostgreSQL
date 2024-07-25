@@ -1,4 +1,4 @@
-# Google BigQuery && PostgreSQL: Big Query for Data Analysis 🖥️ ☁️🎲📊
+# Google BigQuery && PostgreSQL: Big Query for Data Analysis 🖥️☁️🎲📊
 ## Course Google BigQuery && PostgreSQL: Big Query for Data Analysis at [Udemy](https://www.udemy.com/course/google-bigquery-and-postgresql-sql-for-data-analysis/)
 ### 💻 Topics covered during the course were 🚀
 - [Section 01 - Introduction](https://github.com/romulovieira777/Google_BigQuery_PostgreSQL/tree/main/Section%2001%20-%20Introduction)
