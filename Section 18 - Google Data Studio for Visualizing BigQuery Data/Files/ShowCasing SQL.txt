@@ -1,0 +1,18 @@
+Showcasing SQL Skills with HackerRank Stars
+
+In order to excel in SQL, it is important to practice and improve your skills. One of the best ways to do this is by
+using HackerRank, a popular platform for practicing coding skills. By using HackerRank, you can improve your SQL skills
+and demonstrate your proficiency to potential employers or academic institutions.
+
+It's important to have certifications and badges such as HackerRank stars to showcase your skills and proficiency in
+SQL. In this lecture, we will be providing you with a link to a YouTube playlist that will guide you on how to get a
+3-star rating in the SQL topic on HackerRank.
+
+YouTube Playlist - Hackerrank SQL Solutions | 3 stars in SQL | 20 weather observation station solutions
+
+Link - https://www.youtube.com/watch?v=w1FG8YfwJM0&list=PL41qI9AD63BOQYp_h0GOYrsEC67PBas8R&index=1
+
+We hope that the this will help you to improve your SQL skills and achieve a 3-star rating on HackerRank. Remember that
+having certifications and badges, such as HackerRank stars, can be incredibly valuable when applying for jobs or
+pursuing academic opportunities. Employers and academic institutions often look for candidates who can demonstrate their
+proficiency in SQL, and having Hackerrank stars is a great way to showcase your skills.

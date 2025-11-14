@@ -1,0 +1,16 @@
+Comprehensive Interview Preparation Questions
+
+If you are determined to master the essential skills in the field of data analytics, consistent practice and learning
+are key. To help you on this path, we have compiled a set of valuable resources, each containing carefully selected
+interview questions and detailed answers for the most widely used tools in data analytics: Excel, SQL, Power BI,
+Tableau, and Machine Learning.
+
+Excel : https://starttechacademy.com/excel-interview-questions/
+
+SQL : https://starttechacademy.com/sql-interview-questions/
+
+Tableau : https://starttechacademy.com/tableau-interview-questions/
+
+Machine Learning: https://starttechacademy.com/machine-learning-interview-questions/
+
+Power BI : https://starttechacademy.com/power-bi-interview-questions/
