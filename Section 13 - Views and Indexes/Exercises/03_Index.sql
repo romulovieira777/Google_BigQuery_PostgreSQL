@@ -1,5 +1,5 @@
 /*
-Quick Coding Exercise on Indexes
+Quick Coding Exercises on Indexes
 
 Create an index on the "Product" column in the "Orders" table to optimize search queries based on products.
 

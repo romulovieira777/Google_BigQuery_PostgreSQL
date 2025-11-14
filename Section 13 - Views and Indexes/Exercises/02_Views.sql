@@ -1,5 +1,5 @@
 /*
-Quick Coding Exercise on Views
+Quick Coding Exercises on Views
 
 Create a view named 'HighValueCustomers' that shows the names and cities of customers who have made orders with an
 amount greater than $150.
