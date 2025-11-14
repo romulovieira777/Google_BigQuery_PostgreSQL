@@ -1,5 +1,5 @@
 /*
-Quick Coding Exercise on Having Clause
+Quick Coding Exercises on Having Clause
 
 Using the `Orders` table, find the products that have a total order amount greater than $150.
 

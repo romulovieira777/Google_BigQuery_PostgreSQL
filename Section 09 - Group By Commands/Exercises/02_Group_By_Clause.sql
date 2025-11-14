@@ -1,5 +1,5 @@
 /*
-Quick Coding Exercise on Group By Clause
+Quick Coding Exercises on Group By Clause
 
 Calculate the total order amount for each product in the `Orders` table.
 
