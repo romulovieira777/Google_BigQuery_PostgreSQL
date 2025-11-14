@@ -1,5 +1,5 @@
 /*
-Quick Coding Exercise on Case When Statement
+Quick Coding Exercises on Case When Statement
 
 Retrieve the names of customers from the `Orders` table along with a column that categorizes them as 'High Value' if
 their order amount is greater than $150, otherwise categorize them as 'Standard Value'.
