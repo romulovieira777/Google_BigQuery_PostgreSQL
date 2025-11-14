@@ -1,4 +1,4 @@
--- Exercise
+-- Exercises
 
 -- 01. Find out all customers who have first name and last name of 5 characters each and last name starts with "a/b/c/d"
 SELECT
