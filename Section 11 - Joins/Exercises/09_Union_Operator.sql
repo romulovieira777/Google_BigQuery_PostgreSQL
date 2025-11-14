@@ -1,5 +1,5 @@
 /*
-Quick Coding Exercise on Union Operator
+Quick Coding Exercises on Union Operator
 
 Retrieve a list of all distinct products that have been ordered from both tables.
 

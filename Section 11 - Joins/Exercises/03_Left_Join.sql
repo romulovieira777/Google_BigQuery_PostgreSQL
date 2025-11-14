@@ -1,5 +1,5 @@
 /*
-Quick Coding Exercise on Left Join
+Quick Coding Exercises on Left Join
 
 Retrieve the names of all customers along with the products they have ordered, if any.
 

@@ -1,5 +1,5 @@
 /*
-Quick Coding Exercise on Right Join
+Quick Coding Exercises on Right Join
 
 Retrieve the products that have been ordered along with the names of all customers who placed those orders.
 

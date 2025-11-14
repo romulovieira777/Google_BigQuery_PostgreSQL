@@ -1,5 +1,5 @@
 /*
-Quick Coding Exercise on Full Outer Join
+Quick Coding Exercises on Full Outer Join
 
 Retrieve all customers and their orders, including customers who have not placed any orders and products that have not
 been ordered.

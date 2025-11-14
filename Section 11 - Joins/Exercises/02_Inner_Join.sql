@@ -1,5 +1,5 @@
 /*
-Quick Coding Exercise on Inner Join
+Quick Coding Exercises on Inner Join
 
 Retrieve the names of customers and the products they have ordered.
 

@@ -1,5 +1,5 @@
 /*
-Quick Coding Exercise on Except
+Quick Coding Exercises on Except
 
 Retrieve the products ordered by 'John Doe' but not by 'Jane Smith' from the 'Orders' table.
 

@@ -1,5 +1,5 @@
 /*
-Quick Coding Exercise on Cross Join
+Quick Coding Exercises on Cross Join
 
 Create a combination of all customers and products, regardless of any relationship.
 

@@ -1,5 +1,5 @@
 /*
-Quick Coding Exercise on Intersect and Intersect All
+Quick Coding Exercises on Intersect and Intersect All
 
 Retrieve the Common Name from the Customers and Passengers tables.
 
